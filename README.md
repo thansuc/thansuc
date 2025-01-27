@@ -1,5 +1,4 @@
-### I'm Nathan Sucgang, a first-year student at Ateneo De Manila University studying BS Electronics Engineering. 
-
+### I'm Nathan Sucgang,
 <!--
 **thansuc/thansuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
